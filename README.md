@@ -9,6 +9,7 @@
 **Initial Foothold:** FTP credentials discovered through packet capture  
 **Privilege Escalation:** _Could not reproduce_ – documented based on previously known exploitation steps
 
+⚠️ **Note:** This writeup covers only the initial foothold and partial exploitation. Root privilege escalation could not be completed due to machine instability.
 ---
 
 ### 🛰️ Reconnaissance
